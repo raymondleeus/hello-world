@@ -1,3 +1,3 @@
 # hello-world
-Just a beginner test the water
+ZXing make effactive and Easy
 again.
